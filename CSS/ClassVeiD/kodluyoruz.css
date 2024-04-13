@@ -1,0 +1,29 @@
+
+/*
+class -> .text-red{}
+id -> #id-bilgisi {}
+*/
+
+#second-article {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-red {
+    color: red;
+}
+
+.fs-small {
+    font-size: 14px;
+}
+
+.fs-medium{
+    font-size: 20px;
+}
+
+.fs-large {
+    font-size: 24px;
+}
+
+h2 {
+    color: blueviolet;
+}
