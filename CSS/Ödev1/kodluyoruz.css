@@ -1,0 +1,27 @@
+
+
+
+
+.fs-small {
+    font-size: 14px;
+}
+
+.fs-medium{
+    font-size: 20px;
+}
+
+.fs-large {
+    font-size: 24px;
+}
+
+
+.text-font {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
