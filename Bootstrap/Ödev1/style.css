@@ -1,0 +1,64 @@
+.header {
+    width: 100%;
+    height: 40px;
+    display: flex; /* Use flexbox */
+    align-items: center; /* Center items vertically */
+    background-color: lightslategray;
+    justify-content: space-between; /* Space between the logo and navigation */
+  }
+  
+  .inner_header {
+    width: 150px;
+    height: 100%;
+    display: flex; /* Use flexbox for centering */
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    background-color: black;
+  }
+  
+  .name_container h2 {
+    color: white;
+    margin: 0;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+  }
+  
+  .navigation {
+    display: flex; /* Use flexbox */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .navigation ul {
+    display: flex; /* Display list items in a row */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    list-style: none; /* Remove default list styling */
+  }
+  
+  .navigation li {
+    margin: 0 10px; /* Add spacing between links */
+  }
+  
+  .navigation a {
+    text-decoration: none; /* Remove underline from links */
+    color: black; /* Set link color */
+  }
+  
+  .header_text {
+    text-align: center; /* Center the text horizontally */
+    margin-top: 20px; /* Add margin for spacing */
+  }
+
+  .p {
+    text-align: center; /* Center the text horizontally */
+    margin-top: 10px; /* Add margin for spacing */
+  }
+
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.card {
+    height: 100%;
+}
